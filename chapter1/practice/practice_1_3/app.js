@@ -1,1 +1,1 @@
-all
+alert('lalala')
