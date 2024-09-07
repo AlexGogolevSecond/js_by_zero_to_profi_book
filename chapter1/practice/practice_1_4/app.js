@@ -6,3 +6,4 @@ multiline comment
 2
 3
 */
+console.log(console.log(Math.floor(Math.random() * 100)));
